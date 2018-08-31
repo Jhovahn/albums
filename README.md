@@ -1,6 +1,15 @@
+## Overview
+
+This project uses React, Redux and Redux-Thunk to asynchronously retrieve a list of random titles and images from separate endpoints.
+
+To begin, fork or download the repo and run 'npm install' from inside the root directory. Once all dependencies are installed run 'npm run start' which will open a connection on http://127.0.0.1:3000/. In the browser, click on the 'Albums' button to generate a random list of text and images. 
+
+NOTE: NPM usage requires Node.js, latest version available at https://nodejs.org/en. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
+
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Table of Contents
